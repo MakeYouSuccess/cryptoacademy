@@ -18,11 +18,10 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
-/vendor/
+vendor/
 
 ### CodeIgniter Patch ###
 
-uploads/
-update_pack/
+
 
 # End of https://www.toptal.com/developers/gitignore/api/codeigniter
